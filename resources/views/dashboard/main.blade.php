@@ -341,9 +341,9 @@
                         </div>
                     </div>
                     <ul class="nav nav-primary">
-
-                        <!-- Sidebar -->
-                        @include('dashboard.sidebar')
+                        
+                    <!-- Sidebar -->
+                    @include('dashboard.sidebar')
 
                     </ul>
                 </div>
